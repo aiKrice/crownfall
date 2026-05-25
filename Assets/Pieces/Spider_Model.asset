@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073c6682970c34af4aa30fa762405b0c, type: 3}
+  m_Name: Spider_Model
+  m_EditorClassIdentifier: 
+  pieceId: 4
+  pieceName: Spider
+  rarity: 2
+  sealedMaxTurns: 15
+  baseHp: 40
+  baseDefense: 5
+  levelStatBonus: 0.1
+  suddenDeathProtection: 0
+  canSuddenDeath: 0
+  strengthRange: {x: 10, y: 15}
+  battleDefense: 4
+  battleRange: {x: 1, y: 10}
+  normalMoves:
+  - type: 0
+    directions: 00000000010000000200000003000000
+    range: 3
+    jumpPattern: {x: 0, y: 0}
+    ignoresObstacles: 0
+    requiresLineOfSight: 0
+  escapeMoves:
+  - type: 0
+    directions: 01000000
+    range: 3
+    jumpPattern: {x: 0, y: 0}
+    ignoresObstacles: 0
+    requiresLineOfSight: 0
+  availableSpells:
+  - {fileID: 0}
+  promotedHp: 55
+  promotedDefense: 7
+  promotedStrengthRange: {x: 15, y: 25}
+  promotedBattleDefense: 6
+  promotedNormalMoves: []
+  promotedEscapeMoves: []
+  promotedSpells: []
+  normalSkins: []
+  pieceColor: {r: 1, g: 1, b: 1, a: 1}
+  promotedSkins: []
+  promotedPieceColor: {r: 1, g: 1, b: 1, a: 1}

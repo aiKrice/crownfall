@@ -1,0 +1,784 @@
+{
+  "boardName": "Classic Crownfall Board",
+  "description": "A standard 8x8 board with all basic mechanics",
+  "width": 8,
+  "height": 8,
+  "cells": [
+    {
+      "position": {"x": 0, "y": 0},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 0},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 0},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 0},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 0},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 0},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 0},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 0},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 1},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 1},
+      "type": 3,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 1},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 1},
+      "type": 1,
+      "color": 0,
+      "hasChest": true,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 1},
+      "type": 1,
+      "color": 1,
+      "hasChest": true,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 1},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 1},
+      "type": 3,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 1},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 2},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 2},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 2},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 2},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 2},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 2},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 2},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 2},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 3},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 3},
+      "type": 2,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 3},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 3},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 3},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 3},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 3},
+      "type": 2,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 3},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 4},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 4},
+      "type": 2,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 4},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 4},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 4},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 4},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 4},
+      "type": 2,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 4},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 5},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 5},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 5},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 5},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 5},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 5},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 5},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 5},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 6},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 6},
+      "type": 3,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 6},
+      "type": 1,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 6},
+      "type": 1,
+      "color": 1,
+      "hasChest": true,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 6},
+      "type": 1,
+      "color": 0,
+      "hasChest": true,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 6},
+      "type": 1,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 6},
+      "type": 3,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 6},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 0, "y": 7},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 1, "y": 7},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 2, "y": 7},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 3, "y": 7},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 4, "y": 7},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 5, "y": 7},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 6, "y": 7},
+      "type": 0,
+      "color": 1,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    },
+    {
+      "position": {"x": 7, "y": 7},
+      "type": 0,
+      "color": 0,
+      "hasChest": false,
+      "hasSeal": false,
+      "sealTurnsRemaining": 0,
+      "isCemeteryFilled": false
+    }
+  ],
+  "pieces": [
+    {
+      "id": "blue_king",
+      "type": 0,
+      "owner": 0,
+      "skinId": "classic_king",
+      "position": {"x": 4, "y": 1},
+      "healthPoints": 100,
+      "maxHealthPoints": 100,
+      "defense": 7,
+      "attackRange": {"min": 15, "max": 25},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 2]
+    },
+    {
+      "id": "blue_queen",
+      "type": 1,
+      "owner": 0,
+      "skinId": "classic_queen",
+      "position": {"x": 3, "y": 1},
+      "healthPoints": 80,
+      "maxHealthPoints": 80,
+      "defense": 6,
+      "attackRange": {"min": 12, "max": 20},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3, 4]
+    },
+    {
+      "id": "blue_rook_1",
+      "type": 2,
+      "owner": 0,
+      "skinId": "classic_rook",
+      "position": {"x": 1, "y": 1},
+      "healthPoints": 60,
+      "maxHealthPoints": 60,
+      "defense": 5,
+      "attackRange": {"min": 10, "max": 18},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [2]
+    },
+    {
+      "id": "blue_rook_2",
+      "type": 2,
+      "owner": 0,
+      "skinId": "classic_rook",
+      "position": {"x": 6, "y": 1},
+      "healthPoints": 60,
+      "maxHealthPoints": 60,
+      "defense": 5,
+      "attackRange": {"min": 10, "max": 18},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [2]
+    },
+    {
+      "id": "blue_bishop_1",
+      "type": 3,
+      "owner": 0,
+      "skinId": "classic_bishop",
+      "position": {"x": 2, "y": 1},
+      "healthPoints": 50,
+      "maxHealthPoints": 50,
+      "defense": 4,
+      "attackRange": {"min": 8, "max": 15},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3]
+    },
+    {
+      "id": "blue_bishop_2",
+      "type": 3,
+      "owner": 0,
+      "skinId": "classic_bishop",
+      "position": {"x": 5, "y": 1},
+      "healthPoints": 50,
+      "maxHealthPoints": 50,
+      "defense": 4,
+      "attackRange": {"min": 8, "max": 15},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3]
+    },
+    {
+      "id": "red_king",
+      "type": 0,
+      "owner": 1,
+      "skinId": "classic_king",
+      "position": {"x": 4, "y": 6},
+      "healthPoints": 100,
+      "maxHealthPoints": 100,
+      "defense": 7,
+      "attackRange": {"min": 15, "max": 25},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 2]
+    },
+    {
+      "id": "red_queen",
+      "type": 1,
+      "owner": 1,
+      "skinId": "classic_queen",
+      "position": {"x": 3, "y": 6},
+      "healthPoints": 80,
+      "maxHealthPoints": 80,
+      "defense": 6,
+      "attackRange": {"min": 12, "max": 20},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3, 4]
+    },
+    {
+      "id": "red_rook_1",
+      "type": 2,
+      "owner": 1,
+      "skinId": "classic_rook",
+      "position": {"x": 1, "y": 6},
+      "healthPoints": 60,
+      "maxHealthPoints": 60,
+      "defense": 5,
+      "attackRange": {"min": 10, "max": 18},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [2]
+    },
+    {
+      "id": "red_rook_2",
+      "type": 2,
+      "owner": 1,
+      "skinId": "classic_rook",
+      "position": {"x": 6, "y": 6},
+      "healthPoints": 60,
+      "maxHealthPoints": 60,
+      "defense": 5,
+      "attackRange": {"min": 10, "max": 18},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [2]
+    },
+    {
+      "id": "red_bishop_1",
+      "type": 3,
+      "owner": 1,
+      "skinId": "classic_bishop",
+      "position": {"x": 2, "y": 6},
+      "healthPoints": 50,
+      "maxHealthPoints": 50,
+      "defense": 4,
+      "attackRange": {"min": 8, "max": 15},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3]
+    },
+    {
+      "id": "red_bishop_2",
+      "type": 3,
+      "owner": 1,
+      "skinId": "classic_bishop",
+      "position": {"x": 5, "y": 6},
+      "healthPoints": 50,
+      "maxHealthPoints": 50,
+      "defense": 4,
+      "attackRange": {"min": 8, "max": 15},
+      "level": 1,
+      "isPromoted": false,
+      "magicPowers": [1, 3]
+    }
+  ],
+  "cemeteries": [
+    {
+      "owner": 0,
+      "cemeteryPositions": [
+        {"x": 1, "y": 3},
+        {"x": 6, "y": 3}
+      ],
+      "filledTombs": 0,
+      "maxTombs": 8
+    },
+    {
+      "owner": 1,
+      "cemeteryPositions": [
+        {"x": 1, "y": 4},
+        {"x": 6, "y": 4}
+      ],
+      "filledTombs": 0,
+      "maxTombs": 8
+    }
+  ],
+  "chestPositions": [
+    {"x": 3, "y": 1},
+    {"x": 4, "y": 1},
+    {"x": 3, "y": 6},
+    {"x": 4, "y": 6}
+  ],
+  "possibleChestRewards": [0, 1, 2],
+  "maxTurnsForSealInvocation": 3,
+  "sealInvocationSuccessRate": 1.0,
+  "finalTurnSealSuccessRate": 0.5
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87168f3ee8f440c7abe6d8d436b1bcc, type: 3}
+  m_Name: Wall of fire
+  m_EditorClassIdentifier: 
+  spellId: 1
+  spellName: Wall of fire
+  type: 0
+  maxUses: 3
+  cooldown: 0
+  basePower: 15
+  levelPowerBonus: 0.15
+  targetingType: 0
+  rangeMinMax: {x: 1, y: 3}
+  allowedDirections: 00000000
+  obstacleBehavior: 1
+  customPattern:
+  - {x: 0, y: 0}
+  pierceArmor: 0
+  selfCast: 0
+  areaOfEffect: 0
+  aoeRadius: 1
+  spellColor: {r: 1, g: 1, b: 1, a: 1}
+  animationTrigger: 
